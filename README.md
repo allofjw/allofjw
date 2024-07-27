@@ -17,4 +17,4 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## Other
-https://img.shields.io/badge/notion-My%20Notion-white?style=social&logo=notion&link=https%3A%2F%2Fwww.notion.so%2FPortfolio-c199d5076cf6441ea16d2a963d3c21bc
+![Static Badge](https://img.shields.io/badge/notion-My%20Notion-white?style=social&logo=notion&link=https%3A%2F%2Fwww.notion.so%2FPortfolio-c199d5076cf6441ea16d2a963d3c21bc)
