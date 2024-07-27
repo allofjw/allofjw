@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jw's+Github)](https://git.io/typing-svg)
 
 
-https://img.shields.io/github/license/:user/:repo
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
