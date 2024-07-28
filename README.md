@@ -13,7 +13,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Github Stat
-![Top Langs](https://github-readme-stats-swart-seven-51.vercel.app/api/top-langs/?username=allofjw&layout=donut)
+![Top Langs](https://github-readme-stats-hd0kbyajn-allofjws-projects.vercel.app/api/top-langs/?username=allofjw&layout=donut)
 
 
 ## Now, I'm studying...
