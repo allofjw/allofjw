@@ -12,6 +12,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+## Github Stat
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allofjw&layout=donut)(https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Now, I'm studying...
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
