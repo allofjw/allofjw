@@ -13,7 +13,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Github Stat
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allofjw&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allofjw&layout=donut)](https://github.com/allofjw/Us_spring_server)
 
 ## Now, I'm studying...
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
