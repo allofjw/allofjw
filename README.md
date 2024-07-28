@@ -13,7 +13,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Github Stat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allofjw)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allofjw&layout=compact)
 
 ## Now, I'm studying...
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
